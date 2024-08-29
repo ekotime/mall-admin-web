@@ -222,7 +222,7 @@
             }
             this.value.serviceIds = serviceIds;
           } else {
-            this.value.serviceIds = null;
+            this.value.serviceIds = '';
           }
         }
       }
